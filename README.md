@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Roman!
 
-👨‍💻 Junior Frontend Engineer<br/>
+👨‍💻 Junior Frontend Developer<br/>
 📚 Studied IT Fundamentals at EPAM Learn and IT Courses powered by [RS School](https://rs.school/)<br/>
 🎓 A Bachelor's Degree in Economics
 
